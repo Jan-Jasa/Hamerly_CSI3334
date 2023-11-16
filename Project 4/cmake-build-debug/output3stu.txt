@@ -1,0 +1,51 @@
+e
+  NULL
+  NULL
+e
+  d
+    NULL
+    NULL
+  NULL
+d
+  c
+    NULL
+    NULL
+  e
+    NULL
+    NULL
+d
+  c
+    b
+      NULL
+      NULL
+    NULL
+  e
+    NULL
+    NULL
+d
+  b
+    a
+      NULL
+      NULL
+    c
+      NULL
+      NULL
+  e
+    NULL
+    NULL
+d
+  c
+    a
+      NULL
+      NULL
+    NULL
+  e
+    NULL
+    NULL
+c
+  a
+    NULL
+    NULL
+  d
+    NULL
+    NULL
